@@ -3843,7 +3843,7 @@ logger = logging.getLogger(__name__)
 
 # ==================== TOKENS & OWNERS ====================
 TOKENS = [
-  "8437297155:AAENX3jSK2LoeOfZQF_jtxaZi5frU0giHLo"
+  "8582529768:AAEsklKlUE8yRoU5fBnxMKP1jf90bPU5_8U"
 ]
 
 
